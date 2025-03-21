@@ -1,3 +1,2 @@
 # ICH-ASNet
-===
-![](https://github.com/tzznnn/ICH-ASNet/edit/main/image/image.png)  
+![](https://github.com/tzznnn/ICH-ASNet/blob/main/image/image.png)  
